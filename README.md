@@ -80,7 +80,7 @@ Nepal—and many countries—still face **delays in emergency blood access** due
 Are you an NGO, hospital, or local organization?  
 Let’s collaborate to save lives.  
 
-📩 **Email:** [your-email@domain.com]  
+📩 **Email:** mrsrjn224@gmail.com  
 🌐 **Live Demo:** Coming soon!
 
 ---
