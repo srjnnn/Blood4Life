@@ -30,7 +30,7 @@ Nepal—and many countries—still face **delays in emergency blood access** due
 
 | Layer | Tools |
 |-------|-------|
-| Frontend |React|
+| Frontend |React,Tailwind|
 | Backend | Supabase (PostgreSQL + Auth) |
 | Notifications | Nodemailer (email); SMS planned |
 | Hosting | cloudflare |
