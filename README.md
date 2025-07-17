@@ -31,10 +31,10 @@ Nepal—and many countries—still face **delays in emergency blood access** due
 
 | Layer | Tools |
 |-------|-------|
-| Frontend | HTML, CSS, JavaScript (Web Components) |
+| Frontend |React|
 | Backend | Supabase (PostgreSQL + Auth) |
 | Notifications | Nodemailer (email); SMS planned |
-| Hosting | Vercel / Netlify |
+| Hosting | cloudflare |
 | Matching Logic | Custom filter by city & blood group |
 | Future | GPS support, AI matching, mobile PWA |
 
