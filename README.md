@@ -1,7 +1,7 @@
 # 🩸 Blood4Life – A Real-Time Blood Donation Matching Platform
 
 **Blood4Life** is a web-based application that connects blood donors and recipients based on blood group and location in real-time.  
-Whether it's a medical emergency or a routine need, LifeLine ensures that **no one struggles to find blood when it matters most**.
+Whether it's a medical emergency or a routine need, Blood4Life ensures that **no one struggles to find blood when it matters most**.
 
 ---
 
